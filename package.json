@@ -1,15 +1,33 @@
 {
 	"name": "proxy",
-	"displayName": "proxy",
-	"description": "proxy",
+	"displayName": "Proxy",
+	"description": "Launch a development local Server with live reload feature for static & dynamic pages",
 	"version": "0.0.2",
 	"publisher": "smalike",
+	"author": {
+		"name": "smalike",
+		"url": "https://weibo.com/3219266985/profile?topnav=1&wvr=6"
+	},
 	"engines": {
 		"vscode": "^1.35.0"
 	},
 	"categories": [
 		"Other"
 	],
+	"keywords": [
+		"html preview",
+		"live preview",
+		"live reload",
+		"svg preview",
+		"open in browser",
+		"multi-root ready",
+		"proxy"
+	],
+	"preview": false,
+	"galleryBanner": {
+		"color": "#41205f",
+		"theme": "dark"
+	},
 	"activationEvents": [
 		"*"
 	],
