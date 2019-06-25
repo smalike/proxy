@@ -1,6 +1,6 @@
 const vscode = require('vscode');
 
-let statusbar = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Right);
+let statusbar = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Right, 4.5);
 statusbar.show();
 
 function Init() {
