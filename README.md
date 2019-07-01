@@ -1,6 +1,6 @@
 # proxy README
 
-开启本地服务并启动域名代理
+以 webpack devServer 方式开启本地服务并启动域名代理
 
 ## Features
 
